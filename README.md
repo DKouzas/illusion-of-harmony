@@ -1,6 +1,6 @@
 # Replication Data and Code for: "The Illusion of Harmony"
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24203533.svg)](https://doi.org/10.5281/zenodo.24203533)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24203759.svg)](https://doi.org/10.5281/zenodo.24203759)
 
 This repository contains the supplementary documentation, de-identified raw data, and analysis code used in the research article: **"The Illusion of Harmony: Cognitive Tension, Disciplinary Patterns, and Evolution Acceptance Among Science Educators"** (currently under review).
 
